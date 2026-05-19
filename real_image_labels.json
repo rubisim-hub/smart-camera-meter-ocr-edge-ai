@@ -1,0 +1,526 @@
+[
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\152.JPG",
+    "filename": "152.JPG",
+    "condition": "Blurred",
+    "full_reading": "01802583",
+    "char_sequence": [
+      "0",
+      "1",
+      "8",
+      "0",
+      "2",
+      "5",
+      "8",
+      "3"
+    ],
+    "num_chars": 8
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\157.JPG",
+    "filename": "157.JPG",
+    "condition": "Blurred",
+    "full_reading": "004144",
+    "char_sequence": [
+      "0",
+      "0",
+      "4",
+      "1",
+      "4",
+      "4"
+    ],
+    "num_chars": 6
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\104.JPG",
+    "filename": "104.JPG",
+    "condition": "Tilted",
+    "full_reading": "17927",
+    "char_sequence": [
+      "1",
+      "7",
+      "9",
+      "2",
+      "7"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\14.JPG",
+    "filename": "14.JPG",
+    "condition": "Day Light",
+    "full_reading": "0020631",
+    "char_sequence": [
+      "0",
+      "0",
+      "2",
+      "0",
+      "6",
+      "3",
+      "1"
+    ],
+    "num_chars": 7
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\142.JPG",
+    "filename": "142.JPG",
+    "condition": "Tilted",
+    "full_reading": "0010088",
+    "char_sequence": [
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "8",
+      "8"
+    ],
+    "num_chars": 7
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\128.JPG",
+    "filename": "128.JPG",
+    "condition": "Tilted",
+    "full_reading": "6302",
+    "char_sequence": [
+      "6",
+      "3",
+      "0",
+      "2"
+    ],
+    "num_chars": 4
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\2.JPG",
+    "filename": "2.JPG",
+    "condition": "Day Light",
+    "full_reading": "0005301",
+    "char_sequence": [
+      "0",
+      "0",
+      "0",
+      "5",
+      "3",
+      "0",
+      "1"
+    ],
+    "num_chars": 7
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\147.JPG",
+    "filename": "147.JPG",
+    "condition": "Tilted",
+    "full_reading": "0087013",
+    "char_sequence": [
+      "0",
+      "0",
+      "8",
+      "7",
+      "0",
+      "1",
+      "3"
+    ],
+    "num_chars": 7
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\45.JPG",
+    "filename": "45.JPG",
+    "condition": "Day Light",
+    "full_reading": "13693",
+    "char_sequence": [
+      "1",
+      "3",
+      "6",
+      "9",
+      "3"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\158.JPG",
+    "filename": "158.JPG",
+    "condition": "Blurred",
+    "full_reading": "002549",
+    "char_sequence": [
+      "0",
+      "0",
+      "2",
+      "5",
+      "4",
+      "9"
+    ],
+    "num_chars": 6
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\112.JPG",
+    "filename": "112.JPG",
+    "condition": "Tilted",
+    "full_reading": "0043036",
+    "char_sequence": [
+      "0",
+      "0",
+      "4",
+      "3",
+      "0",
+      "3",
+      "6"
+    ],
+    "num_chars": 7
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\6.JPG",
+    "filename": "6.JPG",
+    "condition": "Day Light",
+    "full_reading": "0052434",
+    "char_sequence": [
+      "0",
+      "0",
+      "5",
+      "2",
+      "4",
+      "3",
+      "4"
+    ],
+    "num_chars": 7
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\25.JPG",
+    "filename": "25.JPG",
+    "condition": "Day Light",
+    "full_reading": "54059",
+    "char_sequence": [
+      "5",
+      "4",
+      "0",
+      "5",
+      "9"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\133.JPG",
+    "filename": "133.JPG",
+    "condition": "Tilted",
+    "full_reading": "6842",
+    "char_sequence": [
+      "6",
+      "8",
+      "4",
+      "2"
+    ],
+    "num_chars": 4
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\61.JPG",
+    "filename": "61.JPG",
+    "condition": "Night",
+    "full_reading": "87332",
+    "char_sequence": [
+      "8",
+      "7",
+      "3",
+      "3",
+      "2"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\51.JPG",
+    "filename": "51.JPG",
+    "condition": "Night",
+    "full_reading": "20509",
+    "char_sequence": [
+      "2",
+      "0",
+      "5",
+      "0",
+      "9"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\159.JPG",
+    "filename": "159.JPG",
+    "condition": "Blurred",
+    "full_reading": "20509",
+    "char_sequence": [
+      "2",
+      "0",
+      "5",
+      "0",
+      "9"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\55.JPG",
+    "filename": "55.JPG",
+    "condition": "Night",
+    "full_reading": "135104",
+    "char_sequence": [
+      "1",
+      "3",
+      "5",
+      "1",
+      "0",
+      "4"
+    ],
+    "num_chars": 6
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\106.JPG",
+    "filename": "106.JPG",
+    "condition": "Tilted",
+    "full_reading": "008390",
+    "char_sequence": [
+      "0",
+      "0",
+      "8",
+      "3",
+      "9",
+      "0"
+    ],
+    "num_chars": 6
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\160.JPG",
+    "filename": "160.JPG",
+    "condition": "Blurred",
+    "full_reading": "0029362",
+    "char_sequence": [
+      "0",
+      "0",
+      "2",
+      "9",
+      "3",
+      "6",
+      "2"
+    ],
+    "num_chars": 7
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\131.JPG",
+    "filename": "131.JPG",
+    "condition": "Tilted",
+    "full_reading": "27372",
+    "char_sequence": [
+      "2",
+      "7",
+      "3",
+      "7",
+      "2"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\57.JPG",
+    "filename": "57.JPG",
+    "condition": "Night",
+    "full_reading": "00039722",
+    "char_sequence": [
+      "0",
+      "0",
+      "0",
+      "3",
+      "9",
+      "7",
+      "2",
+      "2"
+    ],
+    "num_chars": 8
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\150.JPG",
+    "filename": "150.JPG",
+    "condition": "Tilted",
+    "full_reading": "53723",
+    "char_sequence": [
+      "5",
+      "3",
+      "7",
+      "2",
+      "3"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\126.JPG",
+    "filename": "126.JPG",
+    "condition": "Tilted",
+    "full_reading": "19228",
+    "char_sequence": [
+      "1",
+      "9",
+      "2",
+      "2",
+      "8"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\75.JPG",
+    "filename": "75.JPG",
+    "condition": "Night",
+    "full_reading": "014418",
+    "char_sequence": [
+      "0",
+      "1",
+      "4",
+      "4",
+      "1",
+      "8"
+    ],
+    "num_chars": 6
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\11.JPG",
+    "filename": "11.JPG",
+    "condition": "Day Light",
+    "full_reading": "45409",
+    "char_sequence": [
+      "4",
+      "5",
+      "4",
+      "0",
+      "9"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\20.JPG",
+    "filename": "20.JPG",
+    "condition": "Day Light",
+    "full_reading": "27372",
+    "char_sequence": [
+      "2",
+      "7",
+      "3",
+      "7",
+      "2"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\63.JPG",
+    "filename": "63.JPG",
+    "condition": "Night",
+    "full_reading": "59743",
+    "char_sequence": [
+      "5",
+      "9",
+      "7",
+      "4",
+      "3"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\94.JPG",
+    "filename": "94.JPG",
+    "condition": "Night",
+    "full_reading": "0043036",
+    "char_sequence": [
+      "0",
+      "0",
+      "4",
+      "3",
+      "0",
+      "3",
+      "6"
+    ],
+    "num_chars": 7
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\71.JPG",
+    "filename": "71.JPG",
+    "condition": "Night",
+    "full_reading": "019746",
+    "char_sequence": [
+      "0",
+      "1",
+      "9",
+      "7",
+      "4",
+      "6"
+    ],
+    "num_chars": 6
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\83.JPG",
+    "filename": "83.JPG",
+    "condition": "Night",
+    "full_reading": "0072054",
+    "char_sequence": [
+      "0",
+      "0",
+      "7",
+      "2",
+      "0",
+      "5",
+      "4"
+    ],
+    "num_chars": 7
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\49.JPG",
+    "filename": "49.JPG",
+    "condition": "Day Light",
+    "full_reading": "0087013",
+    "char_sequence": [
+      "0",
+      "0",
+      "8",
+      "7",
+      "0",
+      "1",
+      "3"
+    ],
+    "num_chars": 7
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\47.JPG",
+    "filename": "47.JPG",
+    "condition": "Day Light",
+    "full_reading": "51213",
+    "char_sequence": [
+      "5",
+      "1",
+      "2",
+      "1",
+      "3"
+    ],
+    "num_chars": 5
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\44.JPG",
+    "filename": "44.JPG",
+    "condition": "Day Light",
+    "full_reading": "0003407",
+    "char_sequence": [
+      "0",
+      "0",
+      "0",
+      "3",
+      "4",
+      "0",
+      "7"
+    ],
+    "num_chars": 7
+  },
+  {
+    "image_path": "C:\\Users\\Me\\Downloads\\DataScience course\\Final_project\\Data Augmentation\\real_meter_photos\\54.JPG",
+    "filename": "54.JPG",
+    "condition": "Night",
+    "full_reading": "0007130",
+    "char_sequence": [
+      "0",
+      "0",
+      "0",
+      "7",
+      "1",
+      "3",
+      "0"
+    ],
+    "num_chars": 7
+  }
+]
