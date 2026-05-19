@@ -1,0 +1,246 @@
+{
+  "overall_accuracy": 6.451612903225806,
+  "total_correct": 2,
+  "total_tested": 31,
+  "by_condition": {
+    "Blurred": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 5
+    },
+    "Tilted": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 8
+    },
+    "Day Light": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 9
+    },
+    "Night": {
+      "accuracy": 22.22222222222222,
+      "correct": 2,
+      "total": 9
+    }
+  },
+  "detailed_results": [
+    {
+      "filename": "152.JPG",
+      "condition": "Blurred",
+      "ground_truth": "01802583",
+      "prediction": "003242",
+      "correct": false
+    },
+    {
+      "filename": "157.JPG",
+      "condition": "Blurred",
+      "ground_truth": "004144",
+      "prediction": "002144",
+      "correct": false
+    },
+    {
+      "filename": "104.JPG",
+      "condition": "Tilted",
+      "ground_truth": "17927",
+      "prediction": "6327",
+      "correct": false
+    },
+    {
+      "filename": "14.JPG",
+      "condition": "Day Light",
+      "ground_truth": "0020631",
+      "prediction": "0043",
+      "correct": false
+    },
+    {
+      "filename": "142.JPG",
+      "condition": "Tilted",
+      "ground_truth": "0010088",
+      "prediction": "001004",
+      "correct": false
+    },
+    {
+      "filename": "128.JPG",
+      "condition": "Tilted",
+      "ground_truth": "6302",
+      "prediction": "02342",
+      "correct": false
+    },
+    {
+      "filename": "2.JPG",
+      "condition": "Day Light",
+      "ground_truth": "0005301",
+      "prediction": "000312",
+      "correct": false
+    },
+    {
+      "filename": "45.JPG",
+      "condition": "Day Light",
+      "ground_truth": "13693",
+      "prediction": "00343",
+      "correct": false
+    },
+    {
+      "filename": "158.JPG",
+      "condition": "Blurred",
+      "ground_truth": "002549",
+      "prediction": "002344",
+      "correct": false
+    },
+    {
+      "filename": "6.JPG",
+      "condition": "Day Light",
+      "ground_truth": "0052434",
+      "prediction": "0042464",
+      "correct": false
+    },
+    {
+      "filename": "25.JPG",
+      "condition": "Day Light",
+      "ground_truth": "54059",
+      "prediction": "1049",
+      "correct": false
+    },
+    {
+      "filename": "133.JPG",
+      "condition": "Tilted",
+      "ground_truth": "6842",
+      "prediction": "1042",
+      "correct": false
+    },
+    {
+      "filename": "61.JPG",
+      "condition": "Night",
+      "ground_truth": "87332",
+      "prediction": "0093213",
+      "correct": false
+    },
+    {
+      "filename": "51.JPG",
+      "condition": "Night",
+      "ground_truth": "20509",
+      "prediction": "10303",
+      "correct": false
+    },
+    {
+      "filename": "159.JPG",
+      "condition": "Blurred",
+      "ground_truth": "20509",
+      "prediction": "10303",
+      "correct": false
+    },
+    {
+      "filename": "55.JPG",
+      "condition": "Night",
+      "ground_truth": "135104",
+      "prediction": "135104",
+      "correct": true
+    },
+    {
+      "filename": "106.JPG",
+      "condition": "Tilted",
+      "ground_truth": "008390",
+      "prediction": "00000",
+      "correct": false
+    },
+    {
+      "filename": "160.JPG",
+      "condition": "Blurred",
+      "ground_truth": "0029362",
+      "prediction": "10309",
+      "correct": false
+    },
+    {
+      "filename": "131.JPG",
+      "condition": "Tilted",
+      "ground_truth": "27372",
+      "prediction": "10343",
+      "correct": false
+    },
+    {
+      "filename": "57.JPG",
+      "condition": "Night",
+      "ground_truth": "00039722",
+      "prediction": "000313",
+      "correct": false
+    },
+    {
+      "filename": "150.JPG",
+      "condition": "Tilted",
+      "ground_truth": "53723",
+      "prediction": "00743",
+      "correct": false
+    },
+    {
+      "filename": "126.JPG",
+      "condition": "Tilted",
+      "ground_truth": "19228",
+      "prediction": "10343",
+      "correct": false
+    },
+    {
+      "filename": "75.JPG",
+      "condition": "Night",
+      "ground_truth": "014418",
+      "prediction": "00042",
+      "correct": false
+    },
+    {
+      "filename": "11.JPG",
+      "condition": "Day Light",
+      "ground_truth": "45409",
+      "prediction": "00740",
+      "correct": false
+    },
+    {
+      "filename": "20.JPG",
+      "condition": "Day Light",
+      "ground_truth": "27372",
+      "prediction": "10342",
+      "correct": false
+    },
+    {
+      "filename": "63.JPG",
+      "condition": "Night",
+      "ground_truth": "59743",
+      "prediction": "1043",
+      "correct": false
+    },
+    {
+      "filename": "71.JPG",
+      "condition": "Night",
+      "ground_truth": "019746",
+      "prediction": "019746",
+      "correct": true
+    },
+    {
+      "filename": "83.JPG",
+      "condition": "Night",
+      "ground_truth": "0072054",
+      "prediction": "0093054",
+      "correct": false
+    },
+    {
+      "filename": "47.JPG",
+      "condition": "Day Light",
+      "ground_truth": "51213",
+      "prediction": "10343",
+      "correct": false
+    },
+    {
+      "filename": "44.JPG",
+      "condition": "Day Light",
+      "ground_truth": "0003407",
+      "prediction": "000343",
+      "correct": false
+    },
+    {
+      "filename": "54.JPG",
+      "condition": "Night",
+      "ground_truth": "0007130",
+      "prediction": "0093262",
+      "correct": false
+    }
+  ]
+}
